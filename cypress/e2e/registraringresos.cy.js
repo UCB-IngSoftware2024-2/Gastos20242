@@ -1,0 +1,5 @@
+/*
+Como estudiante
+Quiero poder registrar ingresos
+....
+*/
